@@ -1,0 +1,6 @@
+{
+  "name": "OmniSync",
+  "description": "Document and attachment manager bridging Google Drive, Gmail, and Gemini AI for intelligent summarization and mail workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
